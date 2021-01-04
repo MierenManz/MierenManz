@@ -1,19 +1,14 @@
 # About Me
 
 ## Languages & Frameworks
+|     Languages I Know     | Languages I Want To Learn |
+|--------------------------|---------------------------|
+| JavaScript (Node & Deno) |          Python           |
+|    TypeScript (Deno)     |           Java            |
+|  C# (Actively learning)  |           C++             |
+|        Autohotkey        |           Lua             |
+|                          |         VBScript          |
 
-### Languages I know
-- JavaScript (Node & Deno)
-- TypeScript (Deno)
-- C# (Actively learning)
-- Autohotkey
-### Languages I want to learn
-- Python
-- Java
-- C++
-- Lua
-- VBScript
----
 ### Frameworks I know
 - Express.js (Node)
 - Fastify (Node)
