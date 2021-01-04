@@ -9,15 +9,12 @@
 |        Autohotkey        |           Lua             |
 |                          |         VBScript          |
 
-### Frameworks I know
-- Express.js (Node)
-- Fastify (Node)
-- Oak (Deno)
-### Framework I want to learn
-- ABC (Deno)
-- ASP.net (C#)
-- React.js
-- Angular.js
+| Frameworks I Know | Framewroks I Want To Learn |
+|-------------------|----------------------------|
+| Express.js (Node) |         ABC (Deno)         |
+|   Fastify (Node)  |        ASP.net (C#)        |
+|     Oak (Deno)    |          React.js          |
+|                   |         Angular.js         |
 
 ## Me Things
 - 🔭 I’m currently working on [deno_ffmpeg](https://github.com/MierenManz/denoFFMPEG)
