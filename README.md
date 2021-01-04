@@ -1,13 +1,20 @@
 # About Me
 
 ## Languages & Frameworks
-|     Languages I Know     | Languages I Want To Learn | | Frameworks I Know | Frameworks I Want To Learn |
-|--------------------------|---------------------------| |-------------------|----------------------------|
-| JavaScript (Node & Deno) |          Python           | | Express.js (Node) |         ABC (Deno)         |
-|    TypeScript (Deno)     |           Java            | |   Fastify (Node)  |        ASP.net (C#)        |
-|  C# (Actively learning)  |           C++             | |     Oak (Deno)    |          React.js          |
-|        Autohotkey        |           Lua             | |                   |         Angular.js         |
+|     Languages I Know     | Languages I Want To Learn |
+|--------------------------|---------------------------|
+| JavaScript (Node & Deno) |          Python           |
+|    TypeScript (Deno)     |           Java            |
+|  C# (Actively learning)  |           C++             |
+|        Autohotkey        |           Lua             |
 |                          |         VBScript          |
+
+| Frameworks I Know | Frameworks I Want To Learn |
+|-------------------|----------------------------|
+| Express.js (Node) |         ABC (Deno)         |
+|   Fastify (Node)  |        ASP.net (C#)        |
+|     Oak (Deno)    |          React.js          |
+|                   |         Angular.js         |
 
 ## Me Things
 - 🔭 I’m currently working on [deno_ffmpeg](https://github.com/MierenManz/denoFFMPEG)
