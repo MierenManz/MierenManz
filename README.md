@@ -9,7 +9,7 @@
 |        Autohotkey        |           Lua             |
 |                          |         VBScript          |
 
-| Frameworks I Know | Framewroks I Want To Learn |
+| Frameworks I Know | Frameworks I Want To Learn |
 |-------------------|----------------------------|
 | Express.js (Node) |         ABC (Deno)         |
 |   Fastify (Node)  |        ASP.net (C#)        |
