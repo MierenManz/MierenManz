@@ -31,6 +31,9 @@
 - 😄 Pronouns: She/Her
 
 ## Contact Info
-- Email => ||christiaanvanboheemen@gmail.com||
-- Twitter => https://twitter.com/ChristiaanVanBo
-- Discord => Bubbles#3553
+    <details>
+      <summary>Please contact me if you want to ask something</summary>
+      - Email => ||christiaanvanboheemen@gmail.com||
+      - Twitter => https://twitter.com/ChristiaanVanBo
+      - Discord => Bubbles#3553
+    </details>
