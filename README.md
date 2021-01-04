@@ -32,5 +32,5 @@
 
 ## Contact Info
 - [Email](mailto:christiaanvanboheemen@gmail.com)
-- [Discord(Bubbles#3553)
+- [Discord](Bubbles#3553)
 - [Twitter](https://twitter.com/ChristiaanVanBo)
