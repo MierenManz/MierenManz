@@ -1,6 +1,6 @@
 # About Me
 
-##                     Languages                        &               Frameworks
+## Languages & Frameworks
 |     Languages I Know     | Languages I Want To Learn | | Frameworks I Know | Frameworks I Want To Learn |
 |--------------------------|---------------------------| |-------------------|----------------------------|
 | JavaScript (Node & Deno) |          Python           | | Express.js (Node) |         ABC (Deno)         |
