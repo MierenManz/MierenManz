@@ -1,16 +1,36 @@
-### Hi there 👋
+# About Me
 
-<!--
-**MierenManz/MierenManz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages & Frameworks
 
-Here are some ideas to get you started:
+### Languages I know
+- JavaScript (Node & Deno)
+- TypeScript (Deno)
+- C# (Actively learning)
+- Autohotkey
+### Languages I want to learn
+- Python
+- Java
+- C++
+- Lua
+- VBScript
+---
+### Frameworks I know
+- Express.js (Node)
+- Fastify (Node)
+- Oak (Deno)
+### Framework I want to learn
+- ABC (Deno)
+- ASP.net (C#)
+- React.js
+- Angular.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Me Things
+- 🔭 I’m currently working on [deno_ffmpeg](https://github.com/MierenManz/denoFFMPEG)
+- 🌱 I’m currently learning C#
+- 💬 Ask me about Anything you like
+- 😄 Pronouns: She/Her
+
+## Contact Info
+- [Email](mailto:christiaanvanboheemen@gmail.com)
+- [Discord(Bubbles#3553)
+- [Twitter](https://twitter.com/ChristiaanVanBo)
