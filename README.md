@@ -25,6 +25,4 @@
 
 ## Contact Info
 ### Please contact me if you want to ask something
-- Email => christiaanvanboheemen@gmail.com
-- Twitter => https://twitter.com/ChristiaanVanBo
 - Discord => Bubbles#3553
