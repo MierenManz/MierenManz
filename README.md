@@ -14,7 +14,6 @@
 | Express.js (Node) |         ABC (Deno)         |
 |   Fastify (Node)  |                            |
 |     Oak (Deno)    |                            |
-|                   |                            |
 
 ## Github stats
 ![MierenManz's github stats](https://github-readme-stats.vercel.app/api?username=MierenManz&count_private=true&show_icons=true&theme=radical)
