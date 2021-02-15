@@ -4,22 +4,23 @@
 |     Languages I Know     | Languages I Want To Learn |
 |--------------------------|---------------------------|
 | JavaScript (Node & Deno) |          Python           |
-|    TypeScript (Deno)     |           Java            |
-|  C# (Actively learning)  |           C++             |
-|        Autohotkey        |           Lua             |
-|                          |         VBScript          |
+|    TypeScript (Deno)     |          Golang           |
+|        Autohotkey        |                           |
+|  C# (Actively learning)  |                           |
+| Rust (Actively learning) |                           |
 
 | Frameworks I Know | Frameworks I Want To Learn |
 |-------------------|----------------------------|
 | Express.js (Node) |         ABC (Deno)         |
-|   Fastify (Node)  |        ASP.net (C#)        |
-|     Oak (Deno)    |          React.js          |
-|                   |         Angular.js         |
+|   Fastify (Node)  |                            |
+|     Oak (Deno)    |                            |
+|                   |                            |
+
 ## Github stats
 ![MierenManz's github stats](https://github-readme-stats.vercel.app/api?username=MierenManz&count_private=true&show_icons=true&theme=radical)
 ## Me Things
-- 🔭 I’m currently working on [Stowrage](https://github.com/Skystar-modules/stowrage)
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on [Stowrage](https://github.com/Skystar-modules/stowrage) & SkyFrame(web framework)
+- 🌱 I’m currently learning C# & rust
 - 💬 Ask me about Anything you like
 - 😄 Pronouns: She/Her
 
