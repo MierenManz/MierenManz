@@ -6,10 +6,10 @@
 |--------------------------|-------------------|
 | JavaScript (Deno & Node) | Express.js (Node) |
 | TypeScript (Deno & Node) |   Fastify (Node)  |
-| Rust (Actively Learning) |     Oak (Deno)    |
-|  C# (Actively Learning)  |        Vue        |
+|           Rust           |     Oak (Deno)    |
+|            C#            |        Vue        |
 |            C             |     Symphony      |
-|        Autohotkey        |                   |
+|        Autohotkey        |       Fresh       |
 |WebAssembly  (text format)|                   |
 |           PHP            |                   |
 
@@ -26,5 +26,5 @@
 
 ### Please contact me if you want to ask something
 
-- Discord => Bubbles#3553
+- Discord => gimmebubbles
 
